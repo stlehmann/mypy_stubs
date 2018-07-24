@@ -1,6 +1,3 @@
 [submodule "sqlalchemy"]
 	path = sqlalchemy
 	url = https://github.com/stlehmann/mypy_stubs_sqlalchemy.git
-[submodule "PyQt5"]
-	path = PyQt5
-	url = https://github.com/stlehmann/mypy_stubs_PyQt5.git
